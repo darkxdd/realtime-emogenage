@@ -1,0 +1,9 @@
+pandas
+opencv-contrib-python
+opencv-python
+numpy<2.0
+keras
+Keras-Preprocessing
+tensorflow
+
+
