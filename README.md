@@ -1,6 +1,6 @@
 # Face Age Gender Flask Code
 
-This project is a Flask application for detecting face, age, and gender from images.
+This project is a Flask application for detecting face, age, and gender from the webcam.
 
 ## Setup and Installation
 
@@ -67,7 +67,7 @@ Open your web browser and navigate to `http://127.0.0.1:5000/` to access the app
 
 This project uses Git LFS (Large File Storage) to manage large model files (`.h5`). Ensure you have Git LFS installed before cloning the repository to properly download these files.
 
-To install Git LFS, follow the instructions on the official Git LFS website: <mcurl name="https://git-lfs.com/" url="https://git-lfs.com/"></mcurl>
+To install Git LFS, follow the instructions on the official Git LFS website: [https://git-lfs.com/](https://git-lfs.com/)
 
 After installation, you can verify it with:
 
