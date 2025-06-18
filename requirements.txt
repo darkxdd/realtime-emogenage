@@ -1,9 +1,19 @@
 pandas
 opencv-contrib-python
 opencv-python
-numpy<2.0
+numpy
 keras
 Keras-Preprocessing
 tensorflow
+Flask
+Werkzeug
+itsdangerous
+Jinja2
+MarkupSafe
+click
+colorama
+Flask-Cors
+Flask-SQLAlchemy
+SQLAlchemy
 
 
